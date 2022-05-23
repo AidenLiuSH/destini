@@ -1,4 +1,4 @@
-# destini
+# Destini
 
 Personal Flutter Project - Destini
 
